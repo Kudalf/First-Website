@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://www.kudalf.com/"
+baseURL = "https://www.kudalf.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
