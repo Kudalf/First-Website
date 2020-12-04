@@ -1,11 +1,8 @@
 # Site settings
 baseURL = "http://www.kudalf.com/"
 languageCode = "en-us"
-title = "Hey man what's up"
-theme = "forty-master"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
-hasCJKLanguage = true 
-enableEmoji = true
+title = "Forty"
+theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -13,9 +10,6 @@ googleAnalytics = ""
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-    
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
   # To create multi-line text in strings use the """example Text""" format
@@ -26,10 +20,8 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Frank Zhou"
-  description = "A bed lier on rainy Sundays"
-  author = "Frida Gomam"
-  dateFormat = "2006/01/02"
-    
+  description = "Your description"
+
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
@@ -90,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "社会档案"
-    subtitle = "比7秒多1秒"
+    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
 
