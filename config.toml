@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "社会档案"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP AND RELEASED UNDER THE CREATIVE COMMONS."
+    title = "寻找钱J"
+    subtitle = "一名EU4玩家的迷失与救赎"
     buttonText = "Get Started"
 
 
